@@ -1,0 +1,17 @@
+[Timer]
+Enable=False
+Format=seconds
+Value=3600
+[Main]
+ErrorCount=15
+Regex=fa\S+|suc\S+|\<\S+.+\>|\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|\'.+'
+Success=succeeded
+Failed=failed
+[Firewall]
+Name=Block
+Protocol=tcp
+Profile=Private
+LocalPort=1433
+RemotePort=any
+Action=Block
+Dir=In

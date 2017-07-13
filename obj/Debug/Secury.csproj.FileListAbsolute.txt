@@ -1,0 +1,51 @@
+c:\users\vxnaz\documents\visual studio 2015\Projects\SecurySystem\Secury\bin\Debug\Secury.exe.config
+c:\users\vxnaz\documents\visual studio 2015\Projects\SecurySystem\Secury\bin\Debug\Secury.exe
+c:\users\vxnaz\documents\visual studio 2015\Projects\SecurySystem\Secury\bin\Debug\Secury.pdb
+c:\users\vxnaz\documents\visual studio 2015\Projects\SecurySystem\Secury\obj\Debug\Secury.csprojResolveAssemblyReference.cache
+c:\users\vxnaz\documents\visual studio 2015\Projects\SecurySystem\Secury\obj\Debug\Secury.Form1.resources
+c:\users\vxnaz\documents\visual studio 2015\Projects\SecurySystem\Secury\obj\Debug\Secury.Properties.Resources.resources
+c:\users\vxnaz\documents\visual studio 2015\Projects\SecurySystem\Secury\obj\Debug\Secury.csproj.GenerateResource.Cache
+c:\users\vxnaz\documents\visual studio 2015\Projects\SecurySystem\Secury\obj\Debug\Secury.exe
+c:\users\vxnaz\documents\visual studio 2015\Projects\SecurySystem\Secury\obj\Debug\Secury.pdb
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\bin\Debug\Secury.exe.config
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\obj\Debug\Secury.exe
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\obj\Debug\Secury.pdb
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\bin\Debug\Secury.exe
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\bin\Debug\Secury.pdb
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\obj\Debug\Secury.csprojResolveAssemblyReference.cache
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\obj\Debug\Secury.Form1.resources
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\obj\Debug\Secury.Properties.Resources.resources
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\obj\Debug\Secury.csproj.GenerateResource.Cache
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\obj\Debug\Secury.fStatistic.resources
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\obj\Debug\Secury.fUnban.resources
+C:\Users\vxnaz\OneDrive\C#\SecurySystem\Secury\obj\Debug\Secury.fBan.resources
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\bin\Debug\Secury.exe.config
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.exe
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.pdb
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\bin\Debug\Secury.exe
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\bin\Debug\Secury.pdb
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.csprojResolveAssemblyReference.cache
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.fBan.resources
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.Form1.resources
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.fStatistic.resources
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.fUnban.resources
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.Properties.Resources.resources
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.csproj.GenerateResource.Cache
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\bin\Debug\Secury.exe.config
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.exe
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.pdb
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.csprojResolveAssemblyReference.cache
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.fBan.resources
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.Form1.resources
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.fStatistic.resources
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.fUnban.resources
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.Properties.Resources.resources
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.csproj.GenerateResource.Cache
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\bin\Debug\Secury.exe
+C:\Users\V\OneDrive\C#\SecuryProject\Secury\bin\Debug\Secury.pdb
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.fItems.resources
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.fSettings.resources
+C:\Users\vxnaz\OneDrive\C#\SecuryProject\Secury\obj\Debug\Secury.fShowInfoLog.resources
+C:\Users\vxnaz\Dropbox\C#\SecuryProject\Secury\bin\Debug\Secury.exe.config
+C:\Users\vxnaz\Dropbox\C#\SecuryProject\Secury\obj\Debug\Secury.exe
+C:\Users\vxnaz\Dropbox\C#\SecuryProject\Secury\obj\Debug\Secury.pdb
